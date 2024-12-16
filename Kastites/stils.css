@@ -1,0 +1,53 @@
+body {
+    background-color: bisque;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;
+}
+.kaste {
+    width: 200px;
+    height: 200px;
+    border: solid;
+    border-width: 4px 4px 4px 4px  ;
+    background-color: aquamarine;
+    padding: 20px;
+    margin: 20px;
+    
+}
+.augseja {
+    width: 200px;
+    height: 200px;
+    border: solid;
+    border-width: 10px;
+    padding: 20px;
+    margin-left:200px ;
+    margin-right:200px ;
+    background-color: aquamarine;
+    position: sticky ;
+ top: 50px; 
+ left: 100px;   
+
+}
+.videja {
+    width: 200px;
+    height: 200px;
+    border: solid;
+    border-width: 20px;
+    margin-left:459px ;
+    margin-right:459px ;
+    background-color: rgb(17, 25, 145);
+
+}
+.apakseja {
+    width: 200px;
+    height: 200px;
+    border: solid;
+    border-width: 10px;
+    margin-left:  699px;
+    margin-right:699px ;
+    background-color: rgb(198, 201, 28);
+}
+img {
+    width: 200px;
+    height: 400px;
+    float: left;
+}

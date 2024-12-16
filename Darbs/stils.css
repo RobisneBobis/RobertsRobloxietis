@@ -1,0 +1,44 @@
+
+.jaro-teksts {
+    font-family: "Jaro", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+H1 {
+    text-align: center;
+    font-family: "Jaro", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+body {
+    background-color: aqua;
+    font-family: "Playwrite HR Lijeva", cursive;
+  font-optical-sizing: auto;
+  font-weight : 100;
+  font-style : normal;
+}
+.bilde {
+    
+    float: left;
+}
+.vieta {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%
+}
+.center {
+    
+    margin-left: 900px;
+   
+    
+}
+.center1 {
+    margin-left:500px;
+}
+.center2 {
+    margin-left: 70px;
+    margin-right: 70px;
+}
